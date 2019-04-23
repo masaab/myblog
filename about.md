@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello People. My Name is Musaab and I am a developer working on the .net technologies. I have been working as a programmer since 2009 (I leave the years calculation for you).
+The motive behind writing this blog was sharing my experience.
 
-You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 

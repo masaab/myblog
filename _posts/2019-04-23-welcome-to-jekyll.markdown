@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Creating Secure asp.net core REST API with .NET Core 3.0 and Identity Server4!"
 date:   2019-04-23 09:58:44 +1000
-categories: jekyll update
+categories: .Net Core
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

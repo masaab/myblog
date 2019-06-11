@@ -24,7 +24,7 @@ github_username:  masaab
 
 # Build settings
 markdown: kramdown
-theme: yoyager
+theme: minima
 plugins:
   - jekyll-feed
 

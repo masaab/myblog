@@ -1,4 +1,4 @@
-
+---
 bg: "owl.jpg"
 layout: page
 title: "About"
@@ -9,4 +9,3 @@ active: about
 ---
 
 Sharing experience!!! The rest of about me coming soon.
-

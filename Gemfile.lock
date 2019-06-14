@@ -9,11 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7-x64-mingw32)
-<<<<<<< HEAD
-    ffi (1.10.0-x64-mingw32)
-=======
     ffi (1.11.1-x64-mingw32)
->>>>>>> 23cb8bbfebd37c0a7a28d41053ed2af6e8609b1c
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -35,11 +31,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-<<<<<<< HEAD
-    jekyll-seo-tag (2.6.0)
-      jekyll (~> 3.3)
-=======
->>>>>>> 23cb8bbfebd37c0a7a28d41053ed2af6e8609b1c
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -49,19 +40,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-<<<<<<< HEAD
-    minima (2.5.0)
-      jekyll (~> 3.5)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
-    pathutil (0.16.2)
-      forwardable-extended (~> 2.6)
-    public_suffix (3.0.3)
-    rb-fsevent (0.10.3)
-    rb-inotify (0.10.0)
-      ffi (~> 1.0)
-    rouge (3.3.0)
-=======
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.0)
@@ -69,7 +47,6 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     rouge (3.4.1)
->>>>>>> 23cb8bbfebd37c0a7a28d41053ed2af6e8609b1c
     ruby_dep (1.5.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -89,16 +66,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
-<<<<<<< HEAD
-  minima (~> 2.0)
-=======
->>>>>>> 23cb8bbfebd37c0a7a28d41053ed2af6e8609b1c
   tzinfo-data
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-<<<<<<< HEAD
-   2.0.1
-=======
    2.0.2
->>>>>>> 23cb8bbfebd37c0a7a28d41053ed2af6e8609b1c

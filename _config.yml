@@ -1,6 +1,7 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
+<<<<<<< HEAD
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -39,3 +40,43 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Transforming logic into code
+email: masaabmushtaq@gmail.com
+description: Doing everything in CSharp and .net core.
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "en"
+url: "http://fumycoder.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  masaab
+disqus_username:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Posts settings
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n"
+
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+
+images: '/assets/images'
+>>>>>>> 23cb8bbfebd37c0a7a28d41053ed2af6e8609b1c

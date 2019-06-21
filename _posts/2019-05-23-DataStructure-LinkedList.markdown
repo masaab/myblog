@@ -1,10 +1,10 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  "Data Structure - Link List"
+title:  "Data Structure - Linked List"
 date:   2019-04-23 09:58:44 +1000
 crawlertitle: "About Data Structure"
-summary: "How to implement Link List Algorithm in C#"
+summary: "How to implement Linked List Algorithm in C#"
 categories: posts
 tags: ['Data Structure']
 author: Masaab

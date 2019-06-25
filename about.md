@@ -8,4 +8,4 @@ summary: "About this blog"
 active: about
 ---
 
-Sharing experience!!! The rest of about me coming soon.
+Sharing experience!!! 

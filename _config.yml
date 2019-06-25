@@ -18,7 +18,6 @@ disqus_username:
 
 # Build settings
 markdown: kramdown
-Theme:minima-2.5.0
 permalink: /:categories/:title/
 
 # Posts settings

@@ -12,7 +12,7 @@ author: Masaab
 
 #### Implementing Linked List Algorithm in C#
 
-[Click here to get complete working code](https://github.com/masaab/DataStructure/tree/master/LinkedList)
+[Click here to get complete working code](https://github.com/masaab/DataStructure/tree/master/LinkedList){:target="_blank"}
 
 *Insert Node at the end of the List:*
 
